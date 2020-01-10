@@ -1,6 +1,6 @@
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-    'f-kita.github.io/pwa/',
+    'index.html',
 ];
 
 // インストール処理
